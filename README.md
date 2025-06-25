@@ -33,6 +33,13 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## 🖼️ Web Application Screenshot
+
+Below is a screenshot of the Streamlit web interface:
+
+![Diabetes App Screenshot](Images/image.png)
+
+
 📒 Notebook Highlights
 
 The diabetes_analysis.ipynb notebook includes:
