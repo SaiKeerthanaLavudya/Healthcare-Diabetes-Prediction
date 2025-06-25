@@ -15,16 +15,6 @@ Key components:
 - Features: Glucose, Blood Pressure, BMI, Age, Insulin, etc.
 - Target: Outcome (0 = Non-diabetic, 1 = Diabetic)
 
-📁 Project Structure
-File	                      Description
-diabetes.csv	              Dataset used for analysis
-diabetes_analysis.ipynb	    Jupyter Notebook with data exploration & ML
-app.py	                    Streamlit web application
-diabetes_model.pkl	        Trained Random Forest model
-scaler.pkl	                StandardScaler for input normalization
-requirements.txt	          Python dependencies
-README.md	                  Project documentation
-
 🚀 Getting Started
 1. Clone the Repository
 
